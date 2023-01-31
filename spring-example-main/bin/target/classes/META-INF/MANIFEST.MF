@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shyam
+Build-Jdk: 17.0.5
+Implementation-Title: spring-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-example
+Created-By: Maven Integration for Eclipse
+
